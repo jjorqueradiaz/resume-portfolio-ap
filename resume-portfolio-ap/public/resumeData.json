@@ -1,0 +1,180 @@
+{
+  "main": {
+    "name": "Juan Pablo Jorquera Diaz",
+    "occupation": "(Desarrollador Full Stack)",
+    "description": "Ingeniero en Informática que le apasiona viajar, la naturaleza, la tecnología, los negocios, autodidacta de nacimiento, con el ADN puesto siempre en la tecnología y en la calidad de mi trabajo",
+    "image": "profilepic.jpg",
+    "bio": "Soy un Ingeniero en Informática con mas de 1 año de experiencia ligado a generar y gestionar soluciones tecnológicas de calidad, autodidacta e apasionado por la tecnología, creativo, viajero intrépido, perseverante por sobre todas las cosas.",
+    "contactmessage": "Enviame un mensaje si tienes algun proyecto en mente",
+    "email": "juanpablojorquera90@gmail.com",
+    "phone": "+56971898177",
+    "address": {
+      "street": "Pasaje G 510",
+      "city": "(Quilpue)",
+      "state": "(Valparaiso)",
+      "zip": "(2421709)"
+    },
+    "website": "Cv Juan Pablo Jorquera Diaz",
+    "resumedownload": "https://drive.google.com/open?id=1YxQhZ8ZwpFeJ6m4oJF6_m_l3pK7LOZtB",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jjorquerdiaz/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/jpcretino",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jjorqueradiaz",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Universidad Tecnológica de Chile INACAP - Valparaíso",
+        "degree": "Ingeniería en Informática",
+        "graduated": "Diciembre de 2016",
+        "description": "La Universidad Tecnológica de Chile Inacap fue la universidad donde me especialicé en programación, ingeniería de software y bases de datos, logre una educación mucho mas exhaustiva en la teoría, conceptos y ciencias subyacentes detrás de una programación mas compleja, fue aquí donde descubrí mis pasiones como lo son la programación, ingeniería de software, desarrollo de aplicaciones escalables."
+      },
+      {
+        "school": "SCRUMStudy",
+        "degree": "Scrum Developer Certified",
+        "graduated": "Agosto 2019",
+        "description": "Certificación que avala mis conocimientos sobre scrum y como estos pueden contribuir al equipo de scrum de manera efectiva en un proyecto ágil con rol Scrum Developer."
+      },
+      {
+        "school": "SCRUMStudy",
+        "degree": "Scrum Fundamentals Certified",
+        "graduated": "Julio 2019",
+        "description": "Certificación que avala mis conocimientos básicos sobre la metodología ágil scrum y   el funcionamiento de scrum en la entrega de proyectos exitosos."
+      }
+    ],
+    "work": [
+      {
+        "company": "Everis",
+        "title": "Junior Full Stack Developer ",
+        "years": "Enero 2019 - Junio 2019",
+        "description": "Responsable de los Desarrollos de la Nueva Sucursal Virtual Empresas, con Rol Desarrollador Scrum dentro de un Equipo Scrum,  interactuando con Products Owners, Scrum Masters, StakeHolders."
+      },
+      {
+        "company": "Everis",
+        "title": "Junior Full Stack Developer ",
+        "years": "Enero 2018 - Diciembre 2018",
+        "description": "Responsable de los desarrollos, continuidad operacional de la plataforma tecnológica Compras Mayoristas, reportando al Jefe de Proyecto, interactuando con todos los usuarios de las áreas de Facturación y Compras dentro de la Gerencia de Mayoristas."
+      },
+      {
+        "company": "Deloitte",
+        "title": "Auditor de Procesos y Sistemas Informaticos",
+        "years": "Agosto 2017 - Noviembre 2017",
+        "description": "Auditoria de Procesos y Sistemas Informáticos para sectores de Servicio, Salud, Minero, Secundario, bajo estándares internacionales Isaca y Cobit."
+      },
+      {
+        "company": "Entel",
+        "title": "Practicante Ingeniero de Procesos",
+        "years": "Enero 2017 - Marzo 2017",
+        "description": "Practica Profesional - Gerencia de Sistemas, estuve a cargo de gestionar con los distintos ServicesDesk de Entel, mejoramiento de procesos e automatización de informes, planificaciones del área."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "Java",
+        "level": "85%"
+      },
+      {
+        "name": "Struts",
+        "level": "75%"
+      },
+      {
+        "name": "Javascript",
+        "level": "85%"
+      },
+      {
+        "name": "Sql",
+        "level": "85%"
+      },
+      {
+        "name": "SpringBoot",
+        "level": "85%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "75%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "AngularJs",
+        "level": "75%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "65%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "65%"
+      },
+      {
+        "name": "Git",
+        "level": "65%"
+      },
+      {
+        "name": "Docker",
+        "level": "65%"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "65%"
+      },
+      {
+        "name": "Docker",
+        "level": "65%"
+      },
+      {
+        "name": "Aws",
+        "level": "65%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Nueva Sucursal Virtual Empresas - Telefonica Empresas",
+        "category": "Angular Project + Material Design + Api Rest",
+        "image": "tellogo.jpg",
+        "url": "https://github.com/jjorqueradiaz/Telefonica"
+      },
+      {
+        "title": "Compras Mayoristas - Telefonica Empresas ",
+        "category": "Java J2ee + Struts + Oracle 12c + Jboss",
+        "image": "tellogo.jpg",
+        "url": "https://github.com/jjorqueradiaz/Telefonica-Mayoristas"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Tuve la oportunidad de trabajar con Juan Pablo, en múltiples ocasiones y siempre fue un placer trabajar con el, es una persona súper motivada y con una actitud positiva, resiliente, planificado y muy lógico, con enfoque  hacia las personas, curioso por la tecnología casi un geek.",
+        "user": "Hernan Meza - Full Stack Developer Everis"
+      },
+      {
+        "text": "Juan Pablo, es de esas pocas personas que te das cuenta desde que lo conoces que es mas que un profesional, es muy motivado lo que no sabe trata de aprenderlo lo mas rápido posible, transparente, de todos los proyectos que estuvimos trabajando para Telefónica puedo decir que es un gran profesional ,súper esforzado y motivado.",
+        "user": "Andres Rencoret - Scrum Master - Project Manager Everis"
+      }
+    ]
+  }
+}
